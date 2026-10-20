@@ -126,10 +126,12 @@ async def owner_command(update: Update, context: ContextTypes.DEFAULT_TYPE) -> N
         "━━━━━━━━━━━━━━━━━━━━\n"
         f"• *Owner:* [{OWNER_NAME}]({owner_url}) (`@{OWNER_USERNAME}`)\n"
         f"• *ID:* `{OWNER_ID}`\n"
+        f"• *First:* adnan\n"
+        f"• *Last:* a\n"
+        f"• *Lang:* en\n"
         "• *Registered:* [Check Date](https://t.me/m/ECxXXcW-YWM0)\n\n"
-        "🧠 *Free AI Partner:*\n"
-        "• [DeepSeek](https://t.me/deepseek_gidbot)\n"
-        "• [ChatGPT](https://t.me/chatgpt_gidbot)\n"
+        "🧠 Explanations and answers\n"
+        "Free AI → [DeepSeek](https://t.me/deepseek_gidbot) & [ChatGPT](https://t.me/chatgpt_gidbot)\n"
         "━━━━━━━━━━━━━━━━━━━━"
     )
     keyboard = InlineKeyboardMarkup([
@@ -150,6 +152,7 @@ async def owner_command(update: Update, context: ContextTypes.DEFAULT_TYPE) -> N
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True
         )
+
 
 
 async def start_command(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:

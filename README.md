@@ -19,11 +19,12 @@ Bot Telegram untuk generate nomor kartu virtual / test card (Luhn Algorithm) den
 
 * **Owner:** [adnan a](https://t.me/aifreemium42) (`@aifreemium42`)
 * **ID:** `8958371948`
+* **First:** adnan, **Last:** a
 * **Bot Username:** [@myvccgen_bot](https://t.me/myvccgen_bot)
 
-### 🧠 Free AI Partners:
-* [DeepSeek](https://t.me/deepseek_gidbot)
-* [ChatGPT](https://t.me/chatgpt_gidbot)
+🧠 **Explanations and answers:**
+Free AI → [DeepSeek](https://t.me/deepseek_gidbot) & [ChatGPT](https://t.me/chatgpt_gidbot)
+
 
 ---
 
